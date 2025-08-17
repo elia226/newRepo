@@ -15,7 +15,7 @@ public class Sample {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("hello kalibutan nakooooooooo");
+        System.out.println("hello kalibutan honeybunch nakoooooooooooooooooooo");
     }
     
 }
